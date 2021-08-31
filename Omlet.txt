@@ -1,5 +1,5 @@
 Welcome to kitchen
-Required ingredients
+Required ingredients for Omlet
 Eggs
 Salt
 Chilli powder
@@ -7,3 +7,7 @@ Corriender
 Onions
 Chillies
 Thank you.
+Break the eggs in a bowl
+Add salt, chilli powder and corriender powder. 
+Add onions and chillies
+Mix well
